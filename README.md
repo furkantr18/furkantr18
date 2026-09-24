@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Engineering** student at **Dokuz Eylül University** (graduating 2026), building software that sits at the intersection of **machine learning, real-time systems and hardware**. I've shipped an ML early-diagnosis API, an LLM-based disaster decision-support system, a real-time multiplayer game server and an end-to-end ESP32 IoT pipeline — and I'm looking to bring that range to **R&D, AI, Full-Stack and Automotive Software** teams.
+I'm a **Computer Engineering** student at **Dokuz Eylül University** (graduating 2026), building software that sits at the intersection of **machine learning, real-time systems and hardware**. I've built an ML early-diagnosis API and an LLM-powered earthquake response platform, alongside real-time multiplayer and embedded IoT work — and I'm looking to bring that range to **R&D, AI, Full-Stack and Automotive Software** teams.
 
 ```yaml
 focus:      [Machine Learning & LLMs, Full-Stack Web, Real-Time Systems, Embedded / Automotive]
@@ -55,37 +55,13 @@ approach:   Prototype fast · measure honestly · ship clean, documented code
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h3>🆘 <a href="https://github.com/furkantr18/RescueLLM">RescueLLM</a></h3>
-      <p><b>AI disaster decision-support system.</b> Uses LLMs to turn fragmented field reports into prioritized, actionable guidance for emergency coordinators.</p>
+      <h3>🆘 <a href="https://github.com/DEUDataMiners/TheSafeHaven">TheSafeHaven</a> <sub><i>(RescueLLM)</i></sub></h3>
+      <p><b>LLM-powered earthquake preparedness & response platform.</b> An LLM decision-support module turns ambiguous field reports (blocked exits, trapped victims, no signal) into safe, context-aware actions, backed by live AFAD earthquake data, interactive maps, emergency alerts and volunteer coordination.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
-      <img src="https://img.shields.io/badge/LLM-1a1b27?style=flat-square"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎲 <a href="https://github.com/furkantr18/Sefupoly">Sefupoly</a></h3>
-      <p><b>Real-time multiplayer board game.</b> Authoritative Node.js server with event-driven Socket.IO rooms keeping every player's game state in sync with low latency.</p>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚽ <a href="https://github.com/furkantr18/Squaduel">Squaduel</a></h3>
-      <p><b>Turn-based strategic football card game.</b> Game logic built in Godot with a SQLite-backed player database powering card stats and squad building.</p>
-      <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white"/>
-      <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
       <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>📡 IoT Passenger-Counting System <sub><i>— Internship</i></sub></h3>
-      <p><b>End-to-end hardware integration.</b> Designed and built a passenger-counting pipeline on ESP32 with sensor fusion, from on-device firmware to data delivery for downstream analytics.</p>
-      <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
-      <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Sensors-1a1b27?style=flat-square"/>
-      <img src="https://img.shields.io/badge/IoT-0f172a?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Folium-77B829?style=flat-square&logo=leaflet&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -95,17 +71,13 @@ approach:   Prototype fast · measure honestly · ship clean, documented code
 ## 🏅 Certification
 
 <p>
-  <img src="https://img.shields.io/badge/Automotive%20Software%20Engineering-TTTech%20Auto-7c3aed?style=for-the-badge&labelColor=0f172a" alt="Automotive Software Engineering — TTTech Auto"/>
+  <a href="https://drdogrulama.sanayi.gov.tr/en/verify/63840494921996/"><img src="https://img.shields.io/badge/Automotive%20Software%20Engineering-TTTech%20Auto-7c3aed?style=for-the-badge&labelColor=0f172a" alt="Automotive Software Engineering — TTTech Auto"/></a>
+  <a href="https://drdogrulama.sanayi.gov.tr/en/verify/63840494921996/"><img src="https://img.shields.io/badge/Verify-Credential-22c55e?style=for-the-badge&logoColor=white" alt="Verify credential"/></a>
 </p>
 
 <br/>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=furkantr18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkantr18&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages"/>
-</p>
+## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=furkantr18&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak"/>
